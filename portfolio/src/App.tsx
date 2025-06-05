@@ -1,5 +1,4 @@
 import { BrowserRouter, Route, Routes } from "react-router";
-import "./App.css";
 import { Layout } from "./components/layout";
 import { HomePage } from "./pages/home";
 import { ProjectPage } from "./pages/project";
