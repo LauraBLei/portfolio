@@ -33,7 +33,7 @@
   - Better modular component structure  
   - Fully responsive layout  
   **Tech:** React, Tailwind CSS, Vite  
-  [Live Site](#) | [GitHub Repo](#)
+
 
   ### 2. Semester Project 2  
   **Teaser:** Airbnb-style accommodation app with customer and manager roles.  
@@ -42,7 +42,7 @@
   - Enhanced UX and UI design  
   - Applied user role-based logic  
   **Tech:** React, Tailwind CSS, Vite  
-  [Live Site](#) | [GitHub Repo](#)
+
 
   ### 3. Exam Project 2  
   **Teaser:** Real-time auction platform using React and TypeScript.  
@@ -51,7 +51,7 @@
   - Improved accessibility  
   - Refined layout and error handling  
   **Tech:** React, TypeScript, Tailwind CSS  
-  [Live Site](#) | [GitHub Repo](#)
+
 
   ---
 
