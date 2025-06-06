@@ -45,4 +45,40 @@ readme: |
   **Tech:** React, Tailwind CSS, Vite  
   [Live Site](#) | [GitHub Repo](#)
 
-  ### 3. E
+  ### 3. Exam Project 2  
+  **Teaser:** Real-time auction platform using React and TypeScript.  
+  **Improvements:**  
+  - Secured API integration  
+  - Improved accessibility  
+  - Refined layout and error handling  
+  **Tech:** React, TypeScript, Tailwind CSS  
+  [Live Site](#) | [GitHub Repo](#)
+
+  ---
+
+  ## 🛠 Tech Stack
+
+  - React  
+  - TypeScript  
+  - Tailwind CSS  
+  - Vite  
+  - GitHub Pages  
+  - Vercel
+
+  ---
+
+  ## 📎 Additional Resources
+
+  - [My GitHub Profile](https://github.com/)
+  - [Reflection PDF](#)  
+  - [JavaScript Frameworks Repo](#)  
+  - [Semester Project 2 Repo](#)  
+  - [Exam Project 2 Repo](#)
+
+  ---
+
+  ## ✅ Final Notes
+
+  All projects were revisited and improved based on feedback from instructors and peers.  
+  Detailed self-assessment and updates are documented on each project’s article page and in the provided PDF.
+  This portfolio was designed and built from scratch using modern front-end technologies.
