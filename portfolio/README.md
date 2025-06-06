@@ -1,4 +1,3 @@
-readme: |
   # 📁 Developer Portfolio
 
   Welcome to my developer portfolio — a curated selection of projects developed during my front-end studies.  
@@ -67,15 +66,6 @@ readme: |
 
   ---
 
-  ## 📎 Additional Resources
-
-  - [My GitHub Profile](https://github.com/)
-  - [Reflection PDF](#)  
-  - [JavaScript Frameworks Repo](#)  
-  - [Semester Project 2 Repo](#)  
-  - [Exam Project 2 Repo](#)
-
-  ---
 
   ## ✅ Final Notes
 
