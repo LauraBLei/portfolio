@@ -73,8 +73,8 @@ export const ProjectPage = () => {
             ))}
           </div>
         </div>
-        `
-        <div className="flex w-full">
+
+        <div className="flex w-full mb-10">
           <a
             href={project?.["repo-link"]}
             target="_blank"
@@ -92,7 +92,6 @@ export const ProjectPage = () => {
             Live Pages
           </a>
         </div>
-        `
       </div>
     </div>
   );

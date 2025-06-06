@@ -21,6 +21,13 @@ export const ProjectCard = ({ project }: ProjectCard) => {
       <p className="text-sm border-y-[1px] border-leiDevBlue py-1">
         {project.shortText}
       </p>
+      <Link
+        className="bg-leiDevBlue w-full text-MatteBlack text-center rounded-md mt-2 hover-effect py-1 font-bold text-base md:text-lg
+        "
+        to={`/project?project=${project.id}`}
+      >
+        Read More
+      </Link>
     </div>
   );
 };
