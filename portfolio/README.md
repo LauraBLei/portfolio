@@ -1,56 +1,75 @@
-title: Developer Portfolio
-description: >
-  A showcase of selected front-end development projects, including reflections and improvements
-  based on feedback and self-assessment.
+readme:
+  title: "📁 Developer Portfolio"
+  subtitle: "Showcasing key front-end development projects with self-assessment and improvements"
 
-live_site: "https://portfolio-z3n9.vercel.app/"
+  live_site: "🔗 Live Portfolio: https://portfolio-z3n9.vercel.app/"
 
-pages:
-  - name: Home Page
-    features:
-      - Project teaser cards with title, image, and short descriptions (≤130 characters)
-      - Clickable cards linking to dedicated project article pages
+  introduction: >
+    Welcome to my front-end development portfolio. This site highlights three major assignments
+    completed during my course, each enhanced based on feedback and self-reflection.
+    The portfolio is built using modern frameworks and features dedicated article pages for
+    each project.
 
-  - name: Project Article Pages
-    includes:
-      - Project title and detailed description
-      - Optimized project image with caption (≤200KB)
-      - Link to live deployed project (opens in new tab)
-      - GitHub repository link (opens in new tab)
-      - Self-assessment and improvements
-      - Share/copy link icon
+  pages:
+    - section: "📄 Pages Included"
+      items:
+        - "**Home Page**: Features project teaser cards with title, thumbnail (≤200KB), and a short description (≤130 characters). Clicking a card navigates to the full article page."
+        - "**Project Article Pages**: Each includes a full description, image, live project link, GitHub repo link, a self-assessment section, and a share icon."
 
-projects:
-  - name: JavaScript Frameworks Assignment
-    short_description: >
-      React e-commerce store with search, cart, and checkout.
-    reflections: >
-      Focused on responsive design and improved form validation post-feedback.
-    tech_stack: [React, Tailwind CSS, Vite]
+  projects:
+    - section: "🚀 Projects Showcased"
+      list:
+        - name: "JavaScript Frameworks Assignment"
+          teaser: "React e-commerce store with search, cart, and checkout."
+          improvements: >
+            Improved form validation, responsive layout, and better code modularity
+            after receiving course feedback.
+          tech: [React, Tailwind CSS, Vite]
+          live_link: "#"
+          repo_link: "#"
 
-  - name: Semester Project 2
-    short_description: >
-      Airbnb-style accommodation app with customer and manager roles.
-    reflections: >
-      Refactored code for modularity and improved UX based on feedback.
-    tech_stack: [React, Tailwind CSS, Vite]
+        - name: "Semester Project 2"
+          teaser: "Airbnb-style accommodation app with customer and manager roles."
+          improvements: >
+            Refactored for better structure, improved user experience, and added
+            authentication handling.
+          tech: [React, Tailwind CSS, Vite]
+          live_link: "#"
+          repo_link: "#"
 
-  - name: Exam Project 2
-    short_description: >
-      Real-time auction platform using React and TypeScript.
-    reflections: >
-      Improved API security, accessibility, and code quality after review.
-    tech_stack: [React, TypeScript, Tailwind CSS]
+        - name: "Exam Project 2"
+          teaser: "Real-time auction platform using React and TypeScript."
+          improvements: >
+            Enhanced security with API integration, improved accessibility,
+            and overall performance updates.
+          tech: [React, TypeScript, Tailwind CSS]
+          live_link: "#"
+          repo_link: "#"
 
-tech_stack:
-  - React
-  - TypeScript
-  - Tailwind CSS
-  - Vite
-  - GitHub Pages
-  - Vercel
+  tech_stack:
+    section: "🛠 Tech Stack"
+    tools:
+      - React
+      - TypeScript
+      - Tailwind CSS
+      - Vite
+      - GitHub Pages
+      - Vercel
 
+  resources:
+    section: "📎 Additional Resources"
+    github_profile: "https://github.com/" # Replace with your actual GitHub profile
+    reflection_pdf: "#"                   # Link to your reflection PDF
+    repos:
+      - name: "JavaScript Frameworks Project"
+        link: "#"
+      - name: "Semester Project 2"
+        link: "#"
+      - name: "Exam Project 2"
+        link: "#"
 
-notes: >
-  All projects were improved using detailed feedback from teachers and peers. 
-  Reflections and updates are documented in each article page and in the reflection PDF.
+  conclusion: >
+    All showcased projects were enhanced using peer and instructor feedback.
+    Reflections and improvements are documented both in the project pages and
+    in a standalone PDF. This portfolio demonstrates my current skills in building
+    responsive, accessible, and well-structured web applications.
